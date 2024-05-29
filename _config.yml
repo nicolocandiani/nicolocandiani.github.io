@@ -35,18 +35,18 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Nicolò Candiani
-  email: nicolo.candiani2000@gmail.com # change to your email address
+  email: nicolo.candiani@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/nicolocandiani # change to your twitter homepage
+    - https://github.com/nicolocandiani # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/nicolocandiani
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: shJJ_ohlrx56gffmQIftEY5XIlES_h7gSjaiXJGPOIk # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
