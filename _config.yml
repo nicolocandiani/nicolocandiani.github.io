@@ -16,7 +16,7 @@ timezone: Europe/Amsterdam
 
 title: Nicolò Candiani # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Hello! It's me. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -46,7 +46,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: shJJ_ohlrx56gffmQIftEY5XIlES_h7gSjaiXJGPOIk # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
