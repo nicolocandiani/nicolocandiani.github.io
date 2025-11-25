@@ -9,13 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<<<<<<< HEAD
-{% include base_path %}
-
-<embed src="{{ base_path }}/files/cv.pdf" width="100%" height="800" type="application/pdf">
-
-[Download Full CV](/files/cv.pdf)
-=======
 **Summary**
 - Theoretical physics master's student at Utrecht University based in Leiden, seeking part-time opportunities alongside studies.
 - Enjoys bouldering, reading, experimenting in the kitchen, and exploring nature.
@@ -43,4 +36,3 @@ redirect_from:
 **Skills**
 - Technical: Python, LaTeX, Git, programming, data analysis, physics.
 - Professional: Knowledge acquisition, research skills, communication, problem solving, teamwork, interpersonal skills.
->>>>>>> origin/main

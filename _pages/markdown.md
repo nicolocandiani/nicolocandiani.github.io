@@ -7,11 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
-<<<<<<< HEAD
-=======
 {% include toc %}
 
->>>>>>> origin/main
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
@@ -30,32 +27,16 @@ redirect_from:
 ## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-<<<<<<< HEAD
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-=======
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version GitHub built with Jekyll. 
->>>>>>> origin/main
   * Green check: successful build
   * Orange circle: building
   * Red X: error
   * No icon: not built
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/main
 * Academic Pages uses [Jekyll Kramdown](https://jekyllrb.com/docs/configuration/markdown/), GitHub Flavored Markdown (GFM) parser, which is similar to the version of Markdown used on GitHub, but may have some minor differences. 
   * Some of emoji supported on GitHub should be supposed via the [Jemoji](https://github.com/jekyll/jemoji) plugin :computer:.
   * The best list of the supported emoji can be found in the [Emojis for Jekyll via Jemoji](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#computer) blog post.
 
-<<<<<<< HEAD
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
-
-## MathJax 
-
-Support for MathJax Version 3.0 is included in the template:
-=======
 * While GitHub Pages prevents server side code from running, client-side scripts are supported.
   * This means that Google Analytics is supported, and [the wiki](https://github.com/academicpages/academicpages.github.io/wiki/Adding-Google-Analytics) should contain the most up-to-date information on getting it working.
 
@@ -66,7 +47,6 @@ Support for MathJax Version 3.0 is included in the template:
 ## MathJax 
 
 Support for MathJax (version 3.* via [jsDelivr](https://www.jsdelivr.com/), [documentation](https://docs.mathjax.org/en/latest/)) is included in the template:
->>>>>>> origin/main
 
 $$
 \displaylines{
@@ -79,9 +59,6 @@ $$
 
 The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
 
-<<<<<<< HEAD
-**Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772).
-=======
 **Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772). In some cases, such as when you are including MathJax in a `citation` field for publications, it may be necessary to use `\(...\)` for inline delineation.
 
 ## Mermaid diagrams
@@ -240,7 +217,6 @@ Essentially what is taking place is that the [Plotly attributes](https://plotly.
   }
 }
 ```
->>>>>>> origin/main
 
 ## Markdown guide
 
@@ -369,11 +345,7 @@ This is the regular text.[^1] This is more regular text.[^note]
 
 ### Anchor Tag (aka. Link)
 
-<<<<<<< HEAD
-This is an example of a [link](http://github.com "Github").
-=======
 This is an example of a [link](https://github.com "GitHub").
->>>>>>> origin/main
 
 ### Abbreviation Tag
 
