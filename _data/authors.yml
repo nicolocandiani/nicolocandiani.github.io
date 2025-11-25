@@ -1,5 +1,6 @@
 # Authors
 
+<<<<<<< HEAD
 Name Name:
   name        : "Name Name"
   uri         : "http://name.com"
@@ -16,3 +17,13 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+=======
+Nicolò Candiani:
+  name        : "Nicolò Candiani"
+  uri         : "https://www.linkedin.com/in/nicolocandiani"
+  email       : "nicolo.candiani2000@gmail.com"
+  bio         : "Theoretical physics MSc student exploring research and data-driven problem solving."
+  avatar      : "profile.jpg"
+  github      : "nicolocandiani"
+  linkedin    : "nicolocandiani"
+>>>>>>> origin/main

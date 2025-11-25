@@ -105,7 +105,11 @@ Make any link standout more when applying the `.btn` class.
 
 ### Anchor Tag (aka. Link)
 
+<<<<<<< HEAD
 This is an example of a [link](http://github.com "Github").
+=======
+This is an example of a [link](https://github.com "GitHub").
+>>>>>>> origin/main
 
 ### Abbreviation Tag
 
@@ -174,4 +178,8 @@ This allows you to denote <var>variables</var>.
 {% include base_path %}
 {% for post in site.pages %}
 {% include archive-single.html %}
+<<<<<<< HEAD
 {% endfor %}
+=======
+{% endfor %}
+>>>>>>> origin/main

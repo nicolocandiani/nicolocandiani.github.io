@@ -1,0 +1,154 @@
+{
+  "basics": {
+    "name": "Nicolò Candiani",
+    "email": "nicolo.candiani2000@gmail.com",
+    "phone": "",
+    "website": "https://nicolocandiani.github.io",
+    "summary": "Theoretical physics master's student who enjoys building simulations, explaining tough concepts, and working with research teams.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Leiden",
+      "countryCode": "NL",
+      "region": "South Holland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "nicolocandiani",
+        "url": "https://www.linkedin.com/in/nicolocandiani"
+      },
+      {
+        "network": "GitHub",
+        "username": "nicolocandiani",
+        "url": "https://github.com/nicolocandiani"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Utrecht University",
+      "position": "Teaching Assistant, Statistical Physics",
+      "location": "Utrecht, Netherlands",
+      "startDate": "2025-09",
+      "endDate": "2025-11",
+      "summary": "",
+      "highlights": [
+        "Assisted students with simulations and helped troubleshoot coding errors.",
+        "Simplified challenging course topics into intuitive explanations.",
+        "Supported assignment grading for the course."
+      ]
+    },
+    {
+      "name": "Utrecht University",
+      "position": "Teaching Assistant, Statistical Physics",
+      "location": "Utrecht, Netherlands",
+      "startDate": "2024-09",
+      "endDate": "2024-11",
+      "summary": "",
+      "highlights": [
+        "Guided students through simulations and debugging.",
+        "Clarified complex lecture material in an approachable way.",
+        "Contributed to grading assignments."
+      ]
+    },
+    {
+      "name": "University of Groningen",
+      "position": "Teaching Assistant",
+      "location": "Groningen, Netherlands",
+      "startDate": "2021-04",
+      "endDate": "2022-11",
+      "summary": "",
+      "highlights": [
+        "Led tutorials for linear algebra, multivariable calculus, relativity, and interdisciplinary physics courses.",
+        "Helped students solve problem sets and maintained a pass rate above 80%.",
+        "Prepared twice-weekly tutorials and assisted with grading assignments and exams."
+      ]
+    },
+    {
+      "name": "Van Swinderen Institute for Particle Physics and Gravity",
+      "position": "Summer Research Intern",
+      "location": "Groningen, Netherlands",
+      "startDate": "2021-06",
+      "endDate": "2021-09",
+      "summary": "",
+      "highlights": [
+        "Researched neutron-rich exotic heavy nuclei produced in multi-nucleon transfer reactions.",
+        "Built electrodynamics simulations for components of the experimental setup."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Utrecht University",
+      "area": "MSc Theoretical Physics",
+      "studyType": "Master of Science",
+      "startDate": "2024-02",
+      "endDate": "Present",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Groningen",
+      "area": "BSc Physics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2020-09",
+      "endDate": "2023-08",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical",
+      "keywords": [
+        "Python",
+        "LaTeX",
+        "Git",
+        "Programming",
+        "Data Analysis",
+        "Physics"
+      ]
+    },
+    {
+      "name": "Professional",
+      "keywords": [
+        "Knowledge Acquisition",
+        "Research Skills",
+        "Interpersonal Skills",
+        "Communication",
+        "Problem Solving",
+        "Teamwork"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [],
+  "presentations": [],
+  "teaching": [
+    {
+      "course": "Statistical Physics (Teaching Assistant)",
+      "institution": "Utrecht University",
+      "date": "2025-09",
+      "role": "Undergraduate course",
+      "description": "Supported theory and experiment course through tutorials, coding support, and grading."
+    },
+    {
+      "course": "Statistical Physics (Teaching Assistant)",
+      "institution": "Utrecht University",
+      "date": "2024-09",
+      "role": "Undergraduate course",
+      "description": "Guided students through simulations, debugging, and conceptual understanding."
+    },
+    {
+      "course": "Multiple courses including Linear Algebra, Multivariable Calculus, Relativity",
+      "institution": "University of Groningen",
+      "date": "2021-04",
+      "role": "Tutorial leader",
+      "description": "Planned and led tutorials twice weekly for 20 students, assisted grading, and maintained high pass rates."
+    }
+  ],
+  "portfolio": []
+}

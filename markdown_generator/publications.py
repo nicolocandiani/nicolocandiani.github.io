@@ -71,8 +71,14 @@ for row, item in publications.iterrows():
     ## YAML variables
     
     md = "---\ntitle: \""   + item.title + '"\n'
+<<<<<<< HEAD
     
     md += """collection: publications"""
+=======
+
+    # TODO Update to use the category assigned in the TSV file
+    md += """collection: manuscripts"""
+>>>>>>> origin/main
     
     md += """\npermalink: /publication/""" + html_filename
     
